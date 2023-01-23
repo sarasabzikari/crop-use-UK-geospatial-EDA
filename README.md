@@ -2,9 +2,9 @@
 
 ## Crop land use within the UK
 
-#### Reviewing annual changes to land coverage of crops can serve as a proxy for several important indicators of soil and plant health. If we know the neccessary conditions that crop species need in order to grow, we can extrapolate what the environmental conditions are in the regions where these crops dominate, and how these conditions may change as crop coverage changes too.
+#### Reviewing annual changes to land coverage of crops can serve as a proxy for several important indicators of soil and plant health. If we know the neccessary conditions that a crop species needs in order to grow, we can extrapolate what the environmental conditions are in the regions where these crops dominate, and how these conditions may change as crop coverage changes too.
 
-#### For example, we know legumious crops, such as beans, peanuts and soy, are efficient nitrogen fixers, and flourish on nitrogen- deficient soils. 
+#### For example, we know legumious crops, such as beans, peanuts and soy, are efficient nitrogen fixers and flourish on nitrogen-deficient soils. 
 
 #### Looking at one region in the UK, we have five files to use: 
 #### 1. Shapefile containing outline of the catchment area for the UK county Hereford
