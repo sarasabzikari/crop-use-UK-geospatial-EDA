@@ -7,10 +7,10 @@
 #### For example, we know legumious crops, such as beans, peanuts and soy, are efficient nitrogen fixers and flourish on nitrogen-deficient soils. 
 
 #### Looking at one region in the UK, we have five files to use: 
-#### 1. Shapefile containing outline of the catchment area for the UK county Hereford
-#### 2. Shapefile containing outline of the river that runs through catchment area
-#### 3. List of land use codes with respective use and cover descriptions (crop name and plant category)
-#### 4. 2020 Crop Map of England (CROME) polygon vector dataset mainly containing the crop types 
+#### 1. (Shapefile)[https://environment.data.gov.uk/catchment-planning/WaterBody/GB109055037112] containing outline of the catchment area for the UK county Hereford
+#### 2. (Shapefile)[https://environment.data.gov.uk/catchment-planning/WaterBody/GB109055037112] containing outline of the river that runs through catchment area
+#### 3. List of (land use codes)[https://www.gov.uk/guidance/rural-payments-service-land-use-codes] with respective use and cover descriptions (crop name and plant category)
+#### 4. 2020 Crop Map of England ((CROME))[https://www.data.gov.uk/dataset/be5d88c9-acfb-4052-bf6b-ee9a416cfe60/crop-map-of-england-crome-2020] polygon vector dataset mainly containing the crop types 
 #### 5. As above, but for 2021
 
 #### We will merge all these datasets together, filter for regions with an 80%  confidence interval of the named crop being grown, and visualise this data.
