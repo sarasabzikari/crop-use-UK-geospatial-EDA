@@ -11,6 +11,6 @@
 #### 2. Shapefile containing outline of the river that runs through catchment area
 #### 3. List of land use codes with respective use and cover descriptions (crop name and plant category)
 #### 4. 2020 Crop Map of England (CROME) polygon vector dataset mainly containing the crop types 
-#### 5. As a bove, but for 2021
+#### 5. As above, but for 2021
 
 #### We will merge all these datasets together, filter for regions with an 80%  confidence interval of the named crop being grown, and visualise this data.
